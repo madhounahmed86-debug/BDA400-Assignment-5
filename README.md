@@ -3,7 +3,7 @@
 **Student:** Ahmed Almadhoun  
 **Course:** BDA400 — Data Science Tools and Techniques  
 **Assignment:** Assignment 5 — Technical Analysis using R, Development Phase  
-**Repository URL:** [[PASTE YOUR GITHUB REPOSITORY URL HERE BEFORE SUBMISSION](https://github.com/madhounahmed86-debug/BDA400-Assignment-5)]
+**Repository URL:** [(https://github.com/madhounahmed86-debug/BDA400-Assignment-5)]
 
 ## Contents
 - `R_scripts/sma.R` — Simple Moving Average

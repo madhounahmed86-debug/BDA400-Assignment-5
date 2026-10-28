@@ -47,8 +47,3 @@ stoch_rsi(prices, 3, 3, 3)
 crossover(c(1, 2, 4), c(2, 2, 3))
 crossunder(c(3, 2, 1), c(2, 2, 2))
 ```
-
-## Notes
-- The provided assignment asks for separate R scripts, brief explanations, and a cover page containing the repository link.
-- Replace the repository placeholder in this README and cover page with your actual repository URL.
-- The supplied PDF is the assignment brief, not a stock-data file. These functions are implemented and demonstrated using sample numeric vectors; add the dataset from Assignment 1 if your instructor expects it to be included in the repository.
